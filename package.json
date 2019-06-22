@@ -1,0 +1,17 @@
+{
+  "name": "custom-babel-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/types": "^7.4.4",
+    "jest": "^24.8.0"
+  }
+}
