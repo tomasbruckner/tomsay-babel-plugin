@@ -19,3 +19,6 @@ You can run test by:
 ```bash
 npm run test
 ```
+
+## About
+This is example of Babel custom plugin which is pretty simple but should work as an introduction to developing more complex Babel plugins.
